@@ -1,0 +1,56 @@
+What is design pattern?
+
+    * Design pattern are common solution to popular or common problems
+    * It's not finished design that can be translate to code which is template or description for how to solve problem.
+    * It's used to make code organized, maintainable, flexible and scalable.
+    * It's majorly used in Object Oriented programming.
+    * Large scale system
+
+
+    Category off design patterns:
+      1. Creational
+      2. Structural
+      3. Behavioral
+
+    
+    Creational Pattern
+      1. Factory method
+      2. Abstract factory
+      3. Builder
+      4. Prototype
+      5. Singleton
+
+    Structural Pattern
+      1. Adaptive
+      2. Bridge
+      3. Composite
+      4. Decorator
+      5. Facade
+      6. Flyweight
+      7. Proxy
+
+    Behavioral Pattern
+      1. Chain of Responsibility
+      2. Command
+      3. Interpreter
+      4. Iterator
+      5. Mediator
+      6. Observer
+      7. State
+      8. Strategy
+      9. Visitor
+      10. Template method
+
+
+what are the caveats of Design Pattern?
+    1. Overuse
+    2. Rigidity
+    3. Difficulty in understanding
+    4. Extra Complexity
+
+    
+
+
+
+
+

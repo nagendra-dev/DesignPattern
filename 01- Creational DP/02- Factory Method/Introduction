@@ -1,0 +1,11 @@
+Factory Design Pattern: (Creational Design Pattern)
+----------------------
+
+* Provides Interface to create object and allow subclasses to initiate
+* follow open-closed principle
+* Since no need to create object for base classes all the oobject creation logic delegated to subclass provide flexibility.
+* Majorly used in framework and library code while exact object type needed by client code at runtime.
+
+
+
+

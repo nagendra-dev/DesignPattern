@@ -1,0 +1,18 @@
+Builder Design Pattern (Creational Design Pattern)
+----------------------
+
+* used to create complex object step by step
+* allow different representation of the different object type using same construction code.
+* when you want to isolate the construction code from the rest of the codebase or clients.
+    to improve the modularity and maintainability.
+    
+Use cases
+   * Application create document like html
+   * GUI Creation
+   * Meal Ordering
+   * Car Manufacturing : Different coolor and Engine Size
+   * Web creation  : create different layout and pages
+   * Game level design 
+   * Database query.
+
+
